@@ -1,0 +1,57 @@
+Project Name: SRCECOTEX (I) PVT LTD Website
+
+Overview: The website will showcase the SRCECOTEX (I) PVT LTD company, a textile industry that recycles plastic into thread. The website will have a unique and creative design, with a focus on recycling and sustainability. The website will be mobile and web responsive, with high-quality animations and interactive elements.
+
+Pages:
+
+Home/Landing Page:
+Background image: A high-quality image related to recycling, such as a plastic bottle being recycled into a thread.
+Company name and tagline: SRCECOTEX (I) PVT LTD - "Transforming Plastic into Thread"
+Introduction to the company and its mission
+Call-to-action (CTA) buttons: "Learn More", "Careers", "Contact Us"
+Social media handles: Displayed prominently on the page, with links to the company's social media profiles
+About Us Page:
+Background image: A image related to the textile industry, such as a factory or a machine that converts plastic into thread.
+Company history and mission statement
+Team profiles: Photos and brief descriptions of key team members
+Testimonials: Quotes from satisfied customers or partners
+Contact Us Page:
+Background image: A image related to communication, such as a phone or an email icon.
+Contact form: A simple form that allows users to send a message to the company
+Address and map: The company's address and a map to help users find the location
+Phone number and email address: The company's phone number and email address
+Careers Page:
+Background image: A image related to careers, such as a person working in a factory or a office.
+Job listings: A list of available jobs, with descriptions and requirements
+Apply button: A button that redirects users to a Google Form (see below)
+HR login form: A login form for HR personnel to manage job listings (see below)
+Admin Page (HR Login):
+Background image: A image related to administration, such as a person working on a computer.
+Login form: A simple form that allows HR personnel to log in with hardcoded credentials
+Job management: A dashboard that allows HR personnel to create, edit, and delete job listings
+Google Form integration: A link to the Google Form that allows users to apply for jobs
+Google Form Integration:
+
+The Google Form will be pre-built by the HR department and will collect the following information from job seekers:
+Name
+Email address
+Phone number
+Resume ( uploaded to Google Sheets)
+Cover letter (optional)
+The form will be linked to a Google Sheet, where the data will be stored and can be accessed by the HR department
+Login Form (HR):
+
+The login form will have the following fields:
+Username
+Password
+The credentials will be hardcoded, with the following values:
+Username: hr
+Password: password123
+Design and Animation:
+
+The website will have a unique and creative design, with a focus on recycling and sustainability.
+The website will be mobile and web responsive, with high-quality animations and interactive elements.
+The design will include the following elements:
+Buttons with hover effects
+Animations that reflect the recycling process (e.g. a plastic bottle being recycled into a thread)
+Images and graphics that relate to the textile industry and recycling
